@@ -14,3 +14,13 @@ pip3 install openai
 ```
 https://platform.openai.com/
 ```
+
+### MODIFICAÇÕES DE IMPLEMENTAÇÃO DA API
+Você pode alterar o valor da variavel
+```
+model="gpt-4"
+```
+para o modelo disponivel de sua preferencia disponiveis em
+```
+https://platform.openai.com/docs/models/overview
+```
